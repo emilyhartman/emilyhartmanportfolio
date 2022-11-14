@@ -1,14 +1,14 @@
-## Portfolio
+## Emily Hartman's Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic Design Project 
 
-[Project 1 Title](/sample_page)
+[Project 1: Ripped Text Effect]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2: Galexy Cat]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
