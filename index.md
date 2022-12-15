@@ -4,31 +4,35 @@
 
 ### Graphic Design Project 
 
-[Project 1: Ripped Text Effect]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Betty Boop]
+<img src="Screen Shot 2022-12-05 at 10.03.22 AM.png"/>
 
 ---
-[Project 2: Galexy Cat]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Galileo Galilei]
+<img src="Screen Shot 2022-12-05 at 10.34.52 AM.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Dancing in a Dream]
+<img src="Screen Shot 2022-12-07 at 8.22.38 AM.png"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 4 Speaking Through Music]
+<img src="Screen Shot 2022-12-07 at 8.23.09 AM.png"/>
 
 ---
 
+### My Web Design Projects 
 
+- [Project 1 Stickers](https://trinket.io/html/1abe310f7f)
+- [Project 2 Tell A Story](https://trinket.io/html/aa5b066c4c)
+- [Project 3 Moon and Earth](https://trinket.io/html/daf3209c68)
+- [Project 4 About Me](https://trinket.io/html/04bc6ce49d)
+- [Project 5 Favorite Celeberty](https://trinket.io/html/4bc7cd9b75)
 
+---
+### My Midterm Project
+
+- [Midterm Project - E commerce](https://top5bands.w3spaces.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
