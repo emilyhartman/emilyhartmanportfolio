@@ -5,19 +5,19 @@
 ### Graphic Design Project 
 
 [Project 1: Betty Boop]
-<img src="Screen Shot 2022-12-05 at 10.03.22 AM.png"/>
+<img src="Screen Shot 2022-12-05 at 10.03.22 AM.png?raw=true"/>
 
 ---
 [Project 2: Galileo Galilei]
-<img src="Screen Shot 2022-12-05 at 10.34.52 AM.png"/>
+<img src="Screen Shot 2022-12-05 at 10.34.52 AM.png?raw=true"/>
 
 ---
 [Project 3 Dancing in a Dream]
-<img src="Screen Shot 2022-12-07 at 8.22.38 AM.png"/>
+<img src="Screen Shot 2022-12-07 at 8.22.38 AM.png?raw=true"/>
 
 ---
 [Project 4 Speaking Through Music]
-<img src="Screen Shot 2022-12-07 at 8.23.09 AM.png"/>
+<img src="Screen Shot 2022-12-07 at 8.23.09 AM.png?raw=true"/>
 
 ---
 
